@@ -1,0 +1,3 @@
+# Multiple-Linear-Regression
+In this notebook I have demonstrated how to build model using multiple linear regression.
+This is a assignement module taken from cloudyml(AI for all course)....Thanks to cloudyml team.....
